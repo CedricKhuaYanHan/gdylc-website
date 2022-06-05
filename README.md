@@ -7,7 +7,7 @@ GDYLC is an international convention where participants immerse themselves in ch
 GDYLC was featured on PISA homepage and attained Gold at MOE Innergy Awards 2021.
 
 ## Actual GDYLC website
-(gdylc.github.io)
+gdylc.github.io
 
 ## Other Related Coding Projects authored by me
 1. GDYLC administrator dashboard
